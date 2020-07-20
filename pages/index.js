@@ -6,7 +6,7 @@ import User from "./../components/User";
 const index = () => {
   return (
     <div>
-      <h1>The Main Page</h1>
+      <h1>The Main Page Hello World</h1>
       <p>
         Go to{" "}
         <Link href="/about">
