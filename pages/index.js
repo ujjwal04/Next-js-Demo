@@ -14,6 +14,11 @@ const index = () => {
         </Link>
       </p>
       <User />
+      <style jsx>
+        {`
+          background-color: blue;
+        `}
+      </style>
     </div>
   );
 };
